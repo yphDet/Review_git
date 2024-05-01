@@ -15,6 +15,6 @@ git merge 分支名
 
 git remote 远程库别名 链接（https/ssh）
 git remote -v
-git push 别名 分支
+git push add 别名 分支
 git pull
 git clone
