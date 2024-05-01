@@ -1,0 +1,20 @@
+git init
+vim文件
+cat 文件
+git status
+add 文件
+git reset --hard 文件
+git commit -m"日志信息" 文件
+git log
+git reflog
+
+git branch 分支名
+git branch -v
+git checkout 分支名
+git merge 分支名
+
+git remote 远程库别名 链接（https/ssh）
+git remote -v
+git push 别名 分支
+git pull
+git clone
